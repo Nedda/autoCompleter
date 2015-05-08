@@ -1,7 +1,15 @@
-AutoCompleter Challenge.  
+# AutoCompleter Challenge.  
 Boiler plate by Marcus Bernales,  
-	Additions by Nedda Amini  
-Terrible CSS is Terrible.      
+Additions by Nedda Amini  
+Terrible CSS is Terrible.     
+I was having cross-domain issues, so I didn't style the dropdown, so  it is dreadful, I am so sorry, I couldn't style blind.    
+
+## Code for Challenge
+- lib/js/actions/*
+- lib/js/components/*
+- lib/js/stores/*
+- lib/css/*
+- public/api/sample.json (What was used for testing)
 
 
 # grwlrplate
