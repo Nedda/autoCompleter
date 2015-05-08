@@ -1,7 +1,7 @@
-AutoCompleter Challenge.__
-Boiler plate by Marcus Bernales,__
-	Additions by Nedda Amini__
-Terrible CSS is Terrible.__ __ 
+AutoCompleter Challenge.  
+Boiler plate by Marcus Bernales,  
+	Additions by Nedda Amini  
+Terrible CSS is Terrible.      
 
 
 # grwlrplate
