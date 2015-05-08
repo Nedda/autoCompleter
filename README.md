@@ -1,3 +1,9 @@
+AutoCompleter Challenge. 
+Boiler plate by Marcus Bernales,
+	Additions by Nedda Amini
+Terrible CSS is Terrible. 
+
+
 # grwlrplate
 Gulp x React x Webpack x BrowserSync Boilerplate
 
